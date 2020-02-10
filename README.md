@@ -5,3 +5,5 @@ xyz|yes|no
 xyz|yes|no
 blah|●|○
 blah|○|○
+aaa|✓| 
+aaa| |✓
